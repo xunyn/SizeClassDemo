@@ -59,6 +59,9 @@
                                         <exclude reference="Af6-L5-pQv"/>
                                     </mask>
                                 </variation>
+                                <variation key="heightClass=compact-widthClass=compact" misplaced="YES">
+                                    <rect key="frame" x="200" y="30" width="220" height="41"/>
+                                </variation>
                                 <variation key="heightClass=regular-widthClass=compact">
                                     <mask key="constraints">
                                         <include reference="Af6-L5-pQv"/>
@@ -106,6 +109,15 @@
                                 <include reference="Rxz-qv-9k7"/>
                                 <include reference="786-ZN-MyQ"/>
                                 <include reference="sfw-4b-IwU"/>
+                                <include reference="7gS-yL-eCh"/>
+                                <include reference="80H-Th-XUh"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=compact-widthClass=regular">
+                            <mask key="constraints">
+                                <include reference="PTc-QO-mTq"/>
+                                <include reference="Rxz-qv-9k7"/>
+                                <include reference="786-ZN-MyQ"/>
                                 <include reference="7gS-yL-eCh"/>
                                 <include reference="80H-Th-XUh"/>
                             </mask>
